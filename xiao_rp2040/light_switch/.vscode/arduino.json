@@ -1,0 +1,7 @@
+{
+    "sketch": "blink.ino",
+    "output": "build",
+    "board": "rp2040:rp2040:seeed_xiao_rp2040",
+    "configuration": "flash=2097152_262144,freq=133,opt=Small,rtti=Disabled,stackprotect=Disabled,exceptions=Disabled,dbgport=Disabled,dbglvl=None,usbstack=picosdk,ipbtstack=ipv4only,uploadmethod=default",
+    "port": "COM4"
+}
